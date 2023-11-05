@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rutto333
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning  python
-- 💞️ I’m looking to collaborate on basic data science or python projects. 
+- 🌱 I’m currently getting started with Data Science Carrer
+- 💞️ I’m looking to collaborate on data science and ML projects
 - 📫 How to reach me ...
 
 <!---
